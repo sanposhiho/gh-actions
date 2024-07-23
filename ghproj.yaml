@@ -1,0 +1,10 @@
+entries:
+  - query: |
+      is:open
+      -project:sanposhiho/3
+      archived:false
+      owner:kubernetes
+      owner:kubernetes-sigs
+      owner:envoyproxy
+      is:public
+    project_id: PVT_kwHOAqGCes4AlJOj
