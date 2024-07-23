@@ -10,3 +10,9 @@ entries:
       is:public
       is:issue
     project_id: PVT_kwHOAqGCes4AZAIV
+  - query: |
+      is:open
+      -project:sanposhiho/2
+      repo:sanposhiho/emails
+      is:issue
+    project_id: PVT_kwHOAqGCes4AZAIV
