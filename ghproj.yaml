@@ -8,4 +8,5 @@ entries:
       owner:envoyproxy
       assignee:sanposhiho
       is:public
-    project_id: PVT_kwHOAqGCes4AlJOj
+      is:issue
+    project_id: PVT_kwHOAqGCes4AZAIV
