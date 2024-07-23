@@ -1,7 +1,7 @@
 entries:
   - query: |
       is:open
-      -project:sanposhiho/3
+      -project:sanposhiho/2
       archived:false
       owner:kubernetes
       owner:kubernetes-sigs
